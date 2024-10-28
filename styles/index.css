@@ -724,6 +724,7 @@ nav ul li a:hover:after {
     padding: 0 5% 4rem;
     position: relative;
     background: var(--bbg);
+    overflow: hidden;
 }
 
 .section_two_sub_header {
